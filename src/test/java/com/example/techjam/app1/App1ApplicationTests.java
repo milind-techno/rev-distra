@@ -1,10 +1,10 @@
-package com.example.techjam.app2;
+package com.example.techjam.app1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class App1ApplicationTests {
 
     @Test
     void contextLoads() {

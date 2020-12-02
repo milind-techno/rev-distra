@@ -1,13 +1,13 @@
-package com.example.techjam.app2;
+package com.example.techjam.app1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class App1Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Application.class, args);
+        SpringApplication.run(App1Application.class, args);
     }
 
 }
